@@ -21,5 +21,6 @@ class SingleImageGraphicsView(QGraphicsView):
 
     def _setPixmap(self, p):
         self._p = p
+        self._scene = QGraphicsScene()
         self._item = self._scene.addPixmap(self._p)
         self.setScene(self._scene)
