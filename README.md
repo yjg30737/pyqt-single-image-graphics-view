@@ -5,7 +5,7 @@ PyQt one image only QGraphicsView
 * PyQt5 >= 5.8
 
 ## Setup
-`pip3 install pyqt-single-image-graphics-view`
+`python -m pip install pyqt-single-image-graphics-view`
 
 ## Method Overview
 * `setFilename(filename: str)`
