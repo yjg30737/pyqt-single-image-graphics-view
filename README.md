@@ -10,6 +10,7 @@ PyQt one image only QGraphicsView
 ## Method Overview
 * `setFilename(filename: str)`
 * `setPixmap(p: QPixmap)`
+* `setAspectRatioMode(mode)`
 
 ## See Also
 * <a href="https://github.com/yjg30737/pyqt-fitting-graphics-view.git">pyqt-fitting-graphics-view</a>
